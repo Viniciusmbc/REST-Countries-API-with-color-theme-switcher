@@ -56,42 +56,56 @@ export default function FilterByRegion() {
             role="button">
             <ul className="p-2">
               <li
-                className={` block rounded-lg px-4 py-2 text-sm ${
-                  theme === "light"
-                    ? " text-black hover:bg-darkBlue hover:text-white"
-                    : "hover:bg-white hover:text-black"
-                }`}
-                role="button"
-                onClick={() => setDropdown(!dropdown)}>
-                <Link to={"/region/americas"}>Americas</Link>
-              </li>
-              <li
-                className={` block rounded-lg px-4 py-2 text-sm ${
-                  theme === "light"
-                    ? " text-black hover:bg-darkBlue hover:text-white"
-                    : "hover:bg-white hover:text-black"
-                }`}
-                onClick={() => setDropdown(!dropdown)}>
-                <Link to={"/region/asia"}>Asia</Link>
-              </li>
-              <li
-                className={` block rounded-lg px-4 py-2 text-sm ${
-                  theme === "light"
-                    ? " text-black hover:bg-darkBlue hover:text-white"
-                    : "hover:bg-white hover:text-black"
-                }`}
-                onClick={() => setDropdown(!dropdown)}>
-                <Link to={"/region/europe"}>Europe</Link>
-              </li>
-              <li
-                className={` block rounded-lg px-4 py-2 text-sm  ${
+                className={` rounded-lg ${
                   theme === "light"
                     ? " text-black hover:bg-darkBlue hover:text-white "
                     : " hover:bg-white hover:text-black"
                 }`}
                 role="button"
                 onClick={() => setDropdown(!dropdown)}>
-                <Link to={"/region/oceania"}>Oceania</Link>
+                <Link
+                  className=" block  px-4 py-2 text-sm"
+                  to={"/region/americas"}>
+                  Americas
+                </Link>
+              </li>
+              <li
+                className={` rounded-lg ${
+                  theme === "light"
+                    ? " text-black hover:bg-darkBlue hover:text-white "
+                    : " hover:bg-white hover:text-black"
+                }`}
+                onClick={() => setDropdown(!dropdown)}>
+                <Link className=" block  px-4 py-2 text-sm" to={"/region/asia"}>
+                  Asia
+                </Link>
+              </li>
+              <li
+                className={`rounded-lg ${
+                  theme === "light"
+                    ? " text-black hover:bg-darkBlue hover:text-white"
+                    : "hover:bg-white hover:text-black"
+                }`}
+                onClick={() => setDropdown(!dropdown)}>
+                <Link
+                  className=" block  px-4 py-2 text-sm"
+                  to={"/region/europe"}>
+                  Europe
+                </Link>
+              </li>
+              <li
+                className={` rounded-lg ${
+                  theme === "light"
+                    ? " text-black hover:bg-darkBlue hover:text-white "
+                    : " hover:bg-white hover:text-black"
+                }`}
+                role="button"
+                onClick={() => setDropdown(!dropdown)}>
+                <Link
+                  className=" block  px-4 py-2 text-sm"
+                  to={"/region/oceania"}>
+                  Oceania
+                </Link>
               </li>
             </ul>
           </div>
