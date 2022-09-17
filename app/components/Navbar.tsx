@@ -18,7 +18,7 @@ export default function Navbar() {
           {theme === "light" ? (
             <button
               onClick={toggleTheme}
-              className=" flex items-center text-xs font-semibold  text-black">
+              className=" flex items-center text-xs font-semibold text-black sm:text-base">
               <span className=" mr-2 ">
                 <svg
                   width="20"
