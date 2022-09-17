@@ -30,7 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Home Page desktop](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2016-16-44%20Rest-countries-challenge.png?raw=true)
+
+![Home page mobile](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2016-15-16%20Rest-countries-challenge.png?raw=true)
+
+![searchcountry](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Captura%20de%20tela%202022-09-17%20-%2016.16.04.png?raw=true)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
