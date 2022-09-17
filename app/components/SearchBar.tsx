@@ -1,10 +1,5 @@
 // Context API
-import {
-  Form,
-  useSearchParams,
-  useSubmit,
-  useTransition,
-} from "@remix-run/react";
+import { Form, useSubmit } from "@remix-run/react";
 import { ThemeContext } from "app/context/ThemeContext";
 import { useContext } from "react";
 

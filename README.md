@@ -30,9 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Home Page desktop](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2016-16-44%20Rest-countries-challenge.png?raw=true)
+![Home Page desktop light mode](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2017-05-02%20Rest-countries-challenge.png?raw=true)
 
-![Home page mobile](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2016-15-16%20Rest-countries-challenge.png?raw=true)
+![Home Page desktop dark mode](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2016-16-44%20Rest-countries-challenge.png?raw=true)
+
+![Home page mobile dark mode](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Screenshot%202022-09-17%20at%2016-15-16%20Rest-countries-challenge.png?raw=true)
 
 ![searchcountry](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher/blob/main/screenshots/Captura%20de%20tela%202022-09-17%20-%2016.16.04.png?raw=true)
 

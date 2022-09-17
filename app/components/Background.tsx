@@ -3,7 +3,7 @@ import { ThemeContext } from "app/context/ThemeContext";
 import { useContext } from "react";
 
 const Background = ({ children }) => {
-  const { theme, toggleTheme } = useContext(ThemeContext);
+  const { theme } = useContext(ThemeContext);
 
   return (
     <body

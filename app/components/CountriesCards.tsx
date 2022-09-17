@@ -13,7 +13,7 @@ export default function CountriesCards({
   region,
   capital,
 }) {
-  const { theme, toggleTheme } = useContext(ThemeContext);
+  const { theme } = useContext(ThemeContext);
 
   return (
     <div
