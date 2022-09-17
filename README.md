@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher)
-- Live Site URL: [Add live site URL here](https://rest-countries-challenge-froentmentor.netlify.app/)
+- Solution URL: [https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher](https://github.com/Viniciusmbc/REST-Countries-API-with-color-theme-switcher)
+- Live Site URL: [https://rest-countries-challenge-froentmentor.netlify.app/](https://rest-countries-challenge-froentmentor.netlify.app/)
 
 ## My process
 
